@@ -1,0 +1,11 @@
+## Tic-Tac-Toe
+
+### Description
+A simple game of Tic-Tac-Toe.  The script will present a single game for 2 players.
+
+### Running The Game
+The game is contained in a single pythion script.  To play, run the script from a terminal like so:
+
+```
+	python3 tic-tac-toe.py
+```
